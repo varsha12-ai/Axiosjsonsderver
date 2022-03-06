@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Varsha Shami",
+      "username": "Varsha shami",
+      "email": "varsha@gmail.com",
+      "phone": "9896547896",
+      "id": 4
+    },
+    {
+      "name": " praful",
+      "username": "prafhul",
+      "email": "rrafhul@gmail.com",
+      "phone": "9745896584",
+      "id": 5
+    },
+    {
+      "name": "Shikhar",
+      "username": "Singsikhar",
+      "email": "singh@gmail.com",
+      "phone": "6456987456",
+      "id": 6
+    },
+    {
+      "name": "varsha kushwaha",
+      "username": "nnnn",
+      "email": "Kushwahavarsha59@gmail.com",
+      "phone": "08299689670",
+      "id": 7
+    },
+    {
+      "name": "varshan n kushwaha",
+      "username": "prafhul",
+      "email": "Kushwahavarsha59@gmail.com",
+      "phone": "082knj99689670",
+      "id": 8
+    }
+  ]
+}
